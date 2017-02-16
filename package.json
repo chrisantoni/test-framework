@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/chrisantoni/test-framework/issues"
   },
-  "homepage": "https://github.com/chrisantoni/test-framework#readme"
+  "homepage": "https://github.com/chrisantoni/test-framework#readme",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
 }
